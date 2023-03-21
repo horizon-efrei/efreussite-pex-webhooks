@@ -12,7 +12,7 @@ L'association est composée de 5 pôles :
   • le Pôle Vidéo
   
 `Ef'Réussite` : le pôle d'Horizon qui possède ce Discord, un forum de discussions pour aider la réussite scolaire des étudiants de l'Efrei !
-> *Suis nos séances de révisions organisées par des <@&805873100813500447>, pose tes questions, discute dans les divers salons, relaie des tips et participe à la communauté :100: !*
+> *Suis nos séances de révisions organisées par des <@&1032065851093950482>, pose tes questions, discute dans les divers salons, relaie des tips et participe à la communauté :100: !*
 
 [:bulb:]   **Remplis le formulaire [pour rejoindre le pôle](https://bit.ly/EfRéussiteRecrute) ou [pour rejoindre l'asso](https://bit.ly/HorizonRecrute) !**
 
