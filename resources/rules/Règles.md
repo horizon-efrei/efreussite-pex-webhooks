@@ -25,12 +25,11 @@
 > ** **
 > **➤** **[Lire les règles](https://discord.com/channels/1032065850779389973/1070876728572006420)** avant de faire quoi que ce soit !
 > ** **
-> **➤** En rejoignant le serveur, tu as accédé à la fonctionnalité d'Onboarding Discord. Tu as pu choisir le rôle qui convient à ta situation par rapport à l'Efrei, ton programme, etc... Tu peux à tout moment les modifier dans **<id:customize>**.
+> **➤** En rejoignant le serveur, tu as accédé à la fonctionnalité d'**Onboarding** de Discord. Tu as pu choisir les rôles par rapport à ta **situation à l'Efrei, ton programme**, etc... Tu peux **à tout moment les modifier** dans **<id:customize>**.
 > ** **
 > **➤** **Se renommer** (idéalement avec ton nom, **à minima avec un pseudo taggable et prononçable**) !
 > ** **
 > **➤** **`En choisissant un rôle, tu acceptes les règles !`**
-> ** **
 > ** **
 > **➤** **Renseigne-toi** sur l'utilité des salons et le fonctionnement du serveur dans <#1032065852683599940>
 > ** **
