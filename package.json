@@ -1,0 +1,23 @@
+{
+  "name": "efreussite-pex-webhooks",
+  "version": "2.0.0",
+  "description": "A collection of webhooks to update our announcements channel on Discord",
+  "contributors": ["noftaly"],
+  "license": "MIT",
+  "private": true,
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "deploy": "node --unhandled-rejections=strict src/main.js",
+    "update": "node --unhandled-rejections=strict src/updater.js"
+  },
+  "dependencies": {
+    "@sapphire/fetch": "^2.4.1",
+    "common-tags": "^1.8.2",
+    "discord.js": "^14.0.3"
+  },
+  "engines": {
+    "node": ">=16.9.0",
+    "npm": ">=7.0.0"
+  }
+}

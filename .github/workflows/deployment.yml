@@ -1,0 +1,56 @@
+name: Deployment
+
+on:
+  workflow_dispatch:
+    inputs:
+      announcementName:
+        description: "Announcement path to deploy. ex: poll/2022-2023/Sondage de fin d'année"
+        required: true
+
+jobs:
+  deploy_webhooks:
+    name: Deploy webhooks
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Project
+        uses: actions/checkout@v3
+
+      - name: Cache node modules
+        uses: actions/cache@v3
+        id: cache
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ./node_modules/
+          key: ${{ runner.os }}-build-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-
+
+      - name: Install Node v16
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+
+      - name: Install dependencies
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: npm ci
+
+      - name: Deploy webhooks
+        run: npm run deploy
+        env:
+          WEBHOOKURL_GLOBAL: ${{ secrets.WEBHOOKURL_GLOBAL }}
+          WEBHOOKURL_GUIDE: ${{ secrets.WEBHOOKURL_GUIDE }}
+          WEBHOOKURL_MASTER: ${{ secrets.WEBHOOKURL_MASTER }}
+          WEBHOOKURL_BACHELOR: ${{ secrets.WEBHOOKURL_BACHELOR }}
+          WEBHOOKURL_POLL: ${{ secrets.WEBHOOKURL_POLL }}
+          WEBHOOKURL_RULES: ${{ secrets.WEBHOOKURL_RULES }}
+          WEBHOOKURL_TIPS: ${{ secrets.WEBHOOKURL_TIPS }}
+          WEBHOOKURL_DRAFT: ${{ secrets.WEBHOOKURL_DRAFT }}
+
+          WEBHOOK_AVATAR: ${{ secrets.WEBHOOK_AVATAR }}
+          WEBHOOK_NAME: ${{ secrets.WEBHOOK_NAME }}
+
+          DEPLOY_SERVER_ID: ${{ secrets.DEPLOY_SERVER_ID }}
+          ANNOUNCEMENT_NAME: ${{ github.event.inputs.announcementName }}
+
+          IS_DRAFT: false
