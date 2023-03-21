@@ -3,7 +3,7 @@
 ===MESSAGE_BREAK===
 
 ** **
-`Horizon` : **l'association d'entraide**, de peer-learning/peer-support et de projets collaboratifs de l'Efrei Paris Panthéon-Assas université <:pantheonassas:957749365940822107>, **qui gère <@&817131722399154177> <:efreussite_rond:1017359426249822280>** !
+`Horizon` : **l'association d'entraide** et de peer-learning/peer-support de l'Efrei Paris Panthéon-Assas université <:pantheonassas:957749365940822107>, **qui gère <@&817131722399154177> <:efreussite_rond:1017359426249822280>** !
 
 L'association est composée de 5 pôles :
   • le Pôle Ef'Réussite
