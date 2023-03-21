@@ -80,9 +80,9 @@ L'association est composée de 5 pôles :
 ** **
 :compass: __**L'ÉQUIPE**__
 
-<@&808297761450754049>/<@&809102657205043301> : Membres de l'équipe pédagogique/de l'administration Efrei Paris Panthéon-Assas université
+<@&808297761450754049>/<@&809102657205043301> : Membres de l'équipe pédagogique/de l'administration Efrei
 
-<@&805883190878928907> : Membres d'Horizon, l'association étudiante Efrei Paris Panthéon-Assas université dont l'un des Pôles est <@&817131722399154177> !
+<@&805883190878928907> : Membres d'Horizon, l'association étudiante Efrei dont l'un des Pôles est <@&817131722399154177> !
 
 <@&805873100813500447> : Étudiants prêts à t'aider pour les révisions via des séances de cours ou en répondant à tes questions par écrit !
 
