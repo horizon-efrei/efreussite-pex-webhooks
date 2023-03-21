@@ -44,21 +44,17 @@ L'association est composée de 5 pôles :
 :teacher: __**SALONS DE COURS**__
 
 ⦿ Pour une question ou une demande sur un cours particulier, demande dans le salon du cours en question.
-> Ex : Question en Droit ? ➤ <#799611218352406528>
-> Ex : Question en Data Analyse ? ➤ <#694636294961234001>
+> Ex : Question en Droit ? ➤ <#1046227673376104529>
+> Ex : Question en Data Analyse ? ➤ <#1071427728701673493> *(si tu es en BTS/Bachelor - Digital)*
 
-⦿ Les salonss #<module>-docs (ex. <#799657173142732841>, <#799003284962279445>) servent à partager des ressources de cours (TD, fiches de révisions...)
+⦿ Les salonss #<module>-docs (ex. <#1071809765040214066>, <#1079409529156026509>) servent à partager des ressources de cours (TD, fiches de révisions...)
 > *Le bot supprime automatiquement les messages ne contenant pas de documents. Merci de ne pas discuter dans ces salons pour éviter le flood !*
 
-⦿ Pour une question générale **par rapport à une UE**, demande dans le salon de l'UE :
-> Ex :  Question sur l'UE Stratégies de Communication Digitale en Première année ? ➤ <#801429506854223872>
-> Ex : Question sur l'UE Formation Générale en Troisième année ? ➤ <#880208269593939978>
-
-<#811971646894243880> : Résumé des cours à venir dans les 7 prochains jours.
-<#883667080212267038>/l2/l3 : Annonces des nouveaux cours à venir.
+<#1038522593566802010> : Résumé des cours à venir dans les 7 prochains jours.
+<#1034251722568241182>/2 - <#1034251857956192256>/2/3 ... : Annonces des nouveaux cours à venir.
 
 
-[:bulb:]   **Réagis avec :white_check_mark: pour avoir un rappel pour le cours dans** <#883667080212267038> <#883667105558441994> <#883667127159103508>
+[:bulb:]   **Réagis avec :white_check_mark: pour avoir un rappel pour le cours dans** <#1034251722568241182> <#1034251692109217933> <#1034251857956192256> <#1034251882534813757> <#1034251937769607198> <#1034251971495993354> <#1034252053561757787> <#1034252191713742868> <#1034252218410475520>
 
 ** **
 
@@ -80,18 +76,20 @@ L'association est composée de 5 pôles :
 ** **
 :compass: __**L'ÉQUIPE**__
 
-<@&808297761450754049>/<@&809102657205043301> : Membres de l'équipe pédagogique/de l'administration Efrei
+<@&1032065851131711607>/<@&1032065851161067550>/<@&1032065851131711608>/<@&1032065851131711606>/<@&1032065851131711605>/<@&1032065851131711604> : Membres de l'équipe pédagogique/de l'administration Efrei
 
-<@&805883190878928907> : Membres d'Horizon, l'association étudiante Efrei dont l'un des Pôles est <@&817131722399154177> !
+<@&1032065851093950475> : Membres d'Horizon, l'association étudiante Efrei dont l'un des Pôles est <@&817131722399154177> !
 
-<@&805873100813500447> : Étudiants prêts à t'aider pour les révisions via des séances de cours ou en répondant à tes questions par écrit !
+<@&1032065851093950482> : Étudiants prêts à t'aider pour les révisions via des séances de cours ou en répondant à tes questions par écrit !
 
-<@&821920726155395102> : Étudiant-Professeur réalisant des sessions de révisions, des cours sur Discord ou Teams ou répondant à tes questions par écrit !
+<@&1032065851068788813> / <@&1032065851068788814> / <@&1032065851068788812> / <@&1032065851068788808> : Étudiants pouvant aider dans un des programmes s'il en a les rôles
+  
+<@&1032065851068788808> : Étudiant-Professeur réalisant des sessions de révisions, des cours sur Discord ou Teams ou répondant à tes questions par écrit !
 
-<@&821921661661610004> : Étudiant-Professeur réalisant des sessions de révisions, des cours ou répondant à tes questions en présentiel !
+<@&1032065851068788811> : Étudiant-Professeur réalisant des sessions de révisions, des cours ou répondant à tes questions en présentiel !
 
-[:bulb:]   **Pose tes questions publiquement et détaille-les au max. pour que les <@&805873100813500447> puissent t'aider !**
-[:bulb:]   **Si tu souhaites t'inscrire en tant qu'eProf, tu peux contacter les <@&934147334760169574>**
+[:bulb:]   **Pose tes questions publiquement et détaille-les au max. pour que les <@&1032065851093950482> puissent t'aider !**
+[:bulb:]   **Si tu souhaites t'inscrire en tant qu'eProf, tu peux contacter les <@&1032065851131711603>**
 
 ** **
 
@@ -100,9 +98,9 @@ L'association est composée de 5 pôles :
 ** **
 🎩 __**REPRÉSENTANTS ÉTUDIANTS**__
 
-<@&893240708339753000> = Interlocuteurs volontaires pour représenter leur formation
+<@&1087869830499147827> = Interlocuteurs volontaires pour représenter leur formation
 
-[:bulb:]   **↑ Les rôles ci-dessus peuvent être obtenus en les demandant aux <@&934147334760169574>**
+[:bulb:]   **↑ Les rôles ci-dessus peuvent être obtenus en les demandant aux <@&1032065851131711603>**
 
 ** **
 
@@ -111,15 +109,15 @@ L'association est composée de 5 pôles :
 ** **
 ⚙️ __**RÔLES OPTIONNELS**__
 
-<@&893240596280537119> : Rôle notifié pour des questions ou annonces ne nécessitant pas de gros ping (@​everyone ou ping de promo) mais qui peuvent aider la communauté 👍
+<@&1032065851031027721> : Rôle notifié pour des questions ou annonces ne nécessitant pas de gros ping (@​everyone ou ping de promo) mais qui peuvent aider la communauté 👍
 > Exemples :
 > - Questions d'organisation ("Où en êtes-vous dans tel cours ?", "Avez-vous plus d'informations sur tel sujet ?"...)
 > - Retours ouverts ("Que pensez-vous de cette nouvelle fonctionnalité ?", "Que pensez-vous de cette communication de l'Efrei ?"...)
 > - Mini-annonces ("Nous recherchons une personne qui s'y connaît dans tel domaine", relais d'annonces...)
 
-<@&895274408325836850> : Rôle notifié lorsque de nouvelles annonces sont postées dans <#895274285457887242>
-<@&823155823063597107> : Rôle notifié lorsque de nouveaux <#822840404968734790> sont lancés (ta voix importe !)
+<@&1032065850913587260> : Rôle notifié lorsque de nouvelles annonces sont postées dans <#1087835787577532486>
+<@&1032065850913587259> : Rôle notifié lorsque de nouveaux <#1087835706367426610> sont lancés (ta voix importe !)
 
-[:bulb:]   **Choisis tes rôles optionnels [sur ce message](https://discord.com/channels/694220883815956580/892340236175147029/893859068475740190)**
+[:bulb:]   **Choisis tes rôles optionnels sur <id:customize> **
 
 *N.B. l'association peut prêter des tablettes graphiques pour des cours.*
