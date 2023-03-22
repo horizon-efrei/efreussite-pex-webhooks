@@ -3,7 +3,7 @@
 ===MESSAGE_BREAK===
 
 ** **
-`Horizon` : **l'association d'entraide** et de peer-learning/peer-support de l'Efrei Paris Panthéon-Assas université <:pantheonassas:957749365940822107>, **qui gère <@&1051655103532257380> <:efreussite_rond:1017359426249822280>** !
+`Horizon` : **l'association d'entraide** et de peer-learning/peer-support de l'Efrei Paris Panthéon-Assas université <:pantheonassas:1043995860301779115>, **qui gère <@&1051655103532257380> <:efreussite_rond:1088196062239531179>** !
 
 L'association est composée de 5 pôles :
   • le Pôle Ef'Réussite
@@ -25,12 +25,12 @@ L'association est composée de 5 pôles :
 ===MESSAGE_BREAK===
 
 ** **
-<:youtube:893954942069526528> [`YouTube`](https://bit.ly/HorizonYouTube) : Rediffusions des cours édités
-<:SharePoint:918826983612354560> [`SharePoint`](https://bit.ly/EfRéussiteSP) : Rediffusions des cours
-<:instagram:894179613918519386> [`Instagram`](https://bit.ly/HorizonInstagram) (@horizon.efrei)
-<:LinkedIn:1076447580545888337> [`LinkedIn`](https://bit.ly/LinkedInHorizon) (Horizon Efrei)
+<:YouTube:1088190950049841212> [`YouTube`](https://bit.ly/HorizonYouTube) : Rediffusions des cours édités
+<:SharePoint:1088191100205924512> [`SharePoint`](https://bit.ly/EfRéussiteSP) : Rediffusions des cours
+<:Instagram:1088191605661507615> [`Instagram`](https://bit.ly/HorizonInstagram) (@horizon.efrei)
+<:LinkedIn:1088192451874922639> [`LinkedIn`](https://bit.ly/LinkedInHorizon) (Horizon Efrei)
 
-<:Discord:1076451012459626546> [`Co-Op`](https://discord.gg/MVmqmkjQzy) : Discord des séances de Co-Op (entraide entre étudiants en présentiel, sur ce que vous souhaitez !)
+<:Discord:1088190947164160000> [`Co-Op`](https://discord.gg/MVmqmkjQzy) : Discord des séances de Co-Op (entraide entre étudiants en présentiel, sur ce que vous souhaitez !)
 
 ** **
 
@@ -76,13 +76,13 @@ L'association est composée de 5 pôles :
 ** **
 :compass: __**L'ÉQUIPE**__
 
-<@&1032065851131711607>/<@&1032065851161067550>/<@&1032065851131711608>/<@&1032065851131711606>/<@&1032065851131711605>/<@&1032065851131711604> : Membres de l'équipe pédagogique/de l'administration Efrei
+<@&1032065851131711607>/<@&1032065851161067550>/<@&1032065851131711608>/<@&1032065851131711604> : Membres de l'équipe pédagogique/de l'administration Efrei
 
 <@&1032065851093950475> : Membres d'Horizon, l'association étudiante Efrei dont l'un des Pôles est <@&817131722399154177> !
 
 <@&1032065851093950482> : Étudiants prêts à t'aider pour les révisions via des séances de cours ou en répondant à tes questions par écrit !
 
-<@&1032065851068788813> / <@&1032065851068788814> / <@&1032065851068788812> / <@&1032065851068788808> : Étudiants pouvant aider dans un des programmes s'il en a les rôles
+<@&1032065851068788814> / <@&1032065851068788808> : Étudiants pouvant aider dans un des programmes s'il en a les rôles
   
 <@&1032065851068788808> : Étudiant-Professeur réalisant des sessions de révisions, des cours sur Discord ou Teams ou répondant à tes questions par écrit !
 
