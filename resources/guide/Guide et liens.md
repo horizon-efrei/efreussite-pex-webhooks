@@ -78,7 +78,7 @@ L'association est composée de 5 pôles :
 
 <@&1032065851131711607>/<@&1032065851161067550>/<@&1032065851131711608>/<@&1032065851131711604> : Membres de l'équipe pédagogique/de l'administration Efrei
 
-<@&1032065851093950475> : Membres d'Horizon, l'association étudiante Efrei dont l'un des Pôles est <@&817131722399154177> !
+<@&1032065851093950475> : Membres d'Horizon, l'association étudiante Efrei dont l'un des Pôles est <@&1051655103532257380> !
 
 <@&1032065851093950482> : Étudiants prêts à t'aider pour les révisions via des séances de cours ou en répondant à tes questions par écrit !
 
